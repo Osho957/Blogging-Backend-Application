@@ -18,6 +18,9 @@ Let The Configurations and Maven Files Download.
 ## Database Structure
 ![DB Image](https://github.com/Osho957/Blogging-Backend-Application/blob/main/database.png)
 
+## Swagger UI
+![Swagger UI](https://github.com/Osho957/Blogging-Backend-Application/blob/main/Swagger%20Configurations.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
