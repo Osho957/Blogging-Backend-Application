@@ -4,8 +4,11 @@ This Is A complete Backend Applciation Made Using Spring Boot.
 
 ## Installation
 
-Clone The Project In Your System And Do The Basic Setup Using Any IDE (STS Preffered).
-Let The Configurations and Maven Files Download.
+1.Clone The Project In Your System And Do The Basic Setup Using Any IDE (STS Preffered).
+2.Let The Configurations and Maven Files Download. 
+3.Configure The Database And applcations.properties file According To Your Requirements.
+4.Make Sure To Update All Dependenies Using pom.xml file.
+5.Run The Application.
 
 ## Softwares Required
 1. Java 17 
