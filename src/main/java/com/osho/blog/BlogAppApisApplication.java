@@ -2,6 +2,7 @@ package com.osho.blog;
 
 import java.util.List;
 
+import com.osho.blog.exceptions.ApiException;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -49,7 +50,7 @@ public class BlogAppApisApplication implements CommandLineRunner  {
 		this.roleRepo.saveAll(roles);
 			
 		}catch(Exception e) {
-			
+			throw new ApiException("Error In Saving Roles");
 		}
 	}
 
